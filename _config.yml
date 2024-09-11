@@ -4,8 +4,8 @@
 
 # Site
 title: Wenhao
-subtitle: 'A dump head struggling in Programming'
-description: 'Dump head'
+subtitle: 'A dumb head struggling in Programming'
+description: 'Dumb head'
 keywords: 'Key'
 author: 'Wenhao'
 language: en
@@ -39,7 +39,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
