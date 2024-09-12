@@ -1,7 +1,9 @@
 ---
 title: Hexagonal Architecture
 date: 2024-09-11 17:04:10
-tags: Traslation, Architecture
+tags: 
+    - Traslation
+    - Architecture
 ---
 
 # 六边形架构
